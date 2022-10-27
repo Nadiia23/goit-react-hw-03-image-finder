@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Nadiia23/goit-react-hw-03-image-finder.git/static/css/main.e3477a01.css",
-    "main.js": "/Nadiia23/goit-react-hw-03-image-finder.git/static/js/main.f46c126d.js",
-    "index.html": "/Nadiia23/goit-react-hw-03-image-finder.git/index.html",
-    "main.e3477a01.css.map": "/Nadiia23/goit-react-hw-03-image-finder.git/static/css/main.e3477a01.css.map",
-    "main.f46c126d.js.map": "/Nadiia23/goit-react-hw-03-image-finder.git/static/js/main.f46c126d.js.map"
+    "main.css": "/goit-react-hw-03-image-finder/static/css/main.e3477a01.css",
+    "main.js": "/goit-react-hw-03-image-finder/static/js/main.0c114310.js",
+    "index.html": "/goit-react-hw-03-image-finder/index.html",
+    "main.e3477a01.css.map": "/goit-react-hw-03-image-finder/static/css/main.e3477a01.css.map",
+    "main.0c114310.js.map": "/goit-react-hw-03-image-finder/static/js/main.0c114310.js.map"
   },
   "entrypoints": [
     "static/css/main.e3477a01.css",
-    "static/js/main.f46c126d.js"
+    "static/js/main.0c114310.js"
   ]
 }
